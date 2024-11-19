@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Markdown Page
+---
+
 The Manifesto of Memetic Mystical Death
 
 Morality is subject to quantum indeterminacy. The manifest ponderations regarding self-centered cultural dynamics and purportedly efficacious concepts of health and wealth defy evolutionary tendencies. Analysis of memetics reveals an insatiable, unprofitable need to label certain entities more than others. The dominant consensus of the societal sphere constitutes a feedback loop arrayed around the primary motivation of potential social capitalization. In regard to this ultimate truth, it is thus perspicuous that there exists no objective corroboration for moral compassions other than individualistic, self-motivated psychological tendencies.
